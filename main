@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi landing page</title>
+</head>
+<body>
+  <header>
+    <h1>Bienvenido a mi landing page</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Acerca de</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>¿Qué ofrecemos?</h2>
+      <p>En nuestra empresa ofrecemos soluciones tecnológicas de vanguardia a precios accesibles. Nuestro equipo de expertos en tecnología está listo para ayudarte a llevar tu negocio al siguiente nivel.</p>
+      <a href="#" class="boton">Ver más</a>
+    </section>
+    <section>
+      <h2>Testimonios</h2>
+      <blockquote>
+        "La solución tecnológica que nos brindaron nos ayudó a optimizar nuestros procesos y aumentar nuestras ventas. ¡Muy recomendado!" - Juan Pérez, CEO de Empresa X.
+      </blockquote>
+      <blockquote>
+        "Estoy muy contenta con el servicio que recibí. El equipo de soporte siempre estuvo disponible para resolver mis dudas." - Ana Gómez, dueña de Tienda Y.
+      </blockquote>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2023 Mi empresa. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
